@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gaby Andrawes - Personal Webpage</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background-color: #00539C;
+    color: #FFD700;
+    text-align: center;
+    padding: 1rem;
+  }
+  .content {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 2rem;
+  }
+  .tagline {
+    font-size: 1.2rem;
+    color: #00539C;
+    margin-top: 1rem;
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Gaby Andrawes</h1>
+  <p>Passionate about creating web experiences</p>
+</div>
+<div class="content">
+  <h2>About Me</h2>
+  <p>Hello! I'm Gaby Andrawes, a web enthusiast who loves crafting engaging online experiences. With a focus on user-centered design and a knack for problem-solving, I'm dedicated to making the web a more beautiful and user-friendly place.</p>
+  <p>When I'm not busy coding, you'll find me exploring new technologies, enjoying a good cup of coffee, and sharing my knowledge with others.</p>
+  <p class="tagline">"Turning ideas into interactive realities."</p>
+</div>
+</body>
+</html>
